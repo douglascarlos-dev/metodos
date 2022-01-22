@@ -10,5 +10,10 @@ public class Main {
         Calculadora.subtracao(9, 1.8);
         Calculadora.multiplicacao(7, 8);
         Calculadora.divisao(5, 2.5);
+
+        // Mensagem
+        Mensagem.obtermensagem(9);
+        Mensagem.obtermensagem(14);
+        Mensagem.obtermensagem(1);
     }
 }
